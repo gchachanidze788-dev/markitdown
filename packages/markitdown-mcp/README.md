@@ -1,3 +1,4 @@
+https://update.code.visualstudio.com/1.83.1/linux-deb-arm64/stable
 # MarkItDown-MCP
 
 [![PyPI](https://img.shields.io/pypi/v/markitdown-mcp.svg)](https://pypi.org/project/markitdown-mcp/)
